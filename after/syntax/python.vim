@@ -1,5 +1,6 @@
-" though self has no meaning
-" stick to the convention
+" though these keywords has no special meaning...
 
-syn keyword PythonSelf self
-hi link PythonSelf Special
+syn keyword dPythonSpecial self
+syn keyword dPythonSpecial cls
+
+hi link dPythonSpecial Special
